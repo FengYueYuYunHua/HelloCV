@@ -1,3 +1,6 @@
 Linux学习与实践记录：https://www.yuque.com/fengyueyuyunhua/rvu2tu/wl3v0sedodclf06g
 GIT学习记录：https://www.yuque.com/fengyueyuyunhua/rvu2tu/vkzfrrydtoctqlbv
 GIT实践任务（计算器）：https://www.yuque.com/fengyueyuyunhua/rvu2tu/nk8ttr9agg1pix1h
+CMAKE学习笔记：https://www.yuque.com/fengyueyuyunhua/rvu2tu/ushpt6ychgplyfgo
+CMakeLists实践记录：https://www.yuque.com/fengyueyuyunhua/rvu2tu/llhhk596ygcek6cw
+补全网关实践记录：https://www.yuque.com/fengyueyuyunhua/rvu2tu/xzghqcfnxvwdgpgo
